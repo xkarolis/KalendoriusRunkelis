@@ -8,13 +8,17 @@ Kaip veikia SodoRunkelis?
 
 „SodoRunkelis“ veikia paprastai:
 
-    Pagrindinis ekranas: Matote augalų sąrašą ir galite pasirinkti augalą, kad sužinotumėte jo sodinimo datas ir patarimus.
+    Pagrindinis ekranas: Matote augalų sąrašą ir galite pasirinkti augalą,
+    kad sužinotumėte jo sodinimo datas ir patarimus.
 
-    Augalų duomenų bazė: Kiekvienas augalas saugomas žodyne su sodinimo datomis ir papildomais patarimais.
+    Augalų duomenų bazė: Kiekvienas augalas saugomas žodyne 
+    su sodinimo datomis ir papildomais patarimais.
 
-    Paieška: Galite surasti augalą pagal pavadinimą. Tai pasiekiama per įvesties lauką ir paieškos funkciją.
+    Paieška: Galite surasti augalą pagal pavadinimą. 
+    Tai pasiekiama per įvesties lauką ir paieškos funkciją.
 
-    Nuotraukos: Jei yra nuotraukos, jos rodomos pagal augalo pavadinimą, naudodami PIL biblioteką.
+    Nuotraukos: Jei yra nuotraukos, jos rodomos pagal augalo pavadinimą, 
+    naudodami PIL biblioteką.
 
     Papildoma informacija: Pasirinkus augalą, sužinosite ne tik sodinimo datas, bet ir auginimo patarimus.
 
