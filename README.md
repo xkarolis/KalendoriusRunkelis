@@ -33,3 +33,4 @@ Kodą galima lengvai pritaikyti ir plėsti, pridedant naujus augalus ar funkcija
 
 Sukūrė: Karolis A.
 Versija: Beta 0.1
+Kontaktai. karolisbeta@beta.lt 
